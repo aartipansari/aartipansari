@@ -2,7 +2,7 @@
 
 🎓 B.Tech Student
 
-🐍 Learning Python
+🔐 Python & Cyber Security
 
 💻 Practicing DSA
 
