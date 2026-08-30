@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii, i am Aarti Pansari 👋<br><br>🎓 4th-year Computer Science student, passionate about Full Stack Development & Cybersecurity<br><br>🛠️ I build with Python, Flask, React, JavaScript & MySQL<br><br>🌱 Currently strengthening my skills in DSA, Networking, Linux, Web Security & Ethical Hacking<br><br>🚀 I love building real-world projects, exploring new tech, and solving programming problems<br><br>📌 Currently: Preparing for placements | Building projects | Learning Cybersecurity<br>
+Hii, I am Aarti Pansari 👋<br><br>🎓 4th-year Computer Science student, passionate about Full Stack Development & Cybersecurity<br><br>🛠️ I build with Python, Flask, React, JavaScript & MySQL<br><br>🌱 Currently strengthening my skills in DSA, Networking, Linux, Web Security & Ethical Hacking<br><br>🚀 I love building real-world projects, exploring new tech, and solving programming problems<br><br>📌 Currently: Preparing for placements | Building projects | Learning Cybersecurity<br>
 
 
 ## 🌐 Socials:
